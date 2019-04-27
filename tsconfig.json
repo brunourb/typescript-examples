@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "experimentalDecorators": true,
+        "emitDecoratorMetadata": true,
+        "module": "commonjs",
+        "target": "es5",
+        "lib": ["es2018"],
+        "noImplicitAny": true
+    },
+    "include": [
+        "src/**/*"
+    ]
+}
